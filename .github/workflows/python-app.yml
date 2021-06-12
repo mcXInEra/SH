@@ -34,3 +34,10 @@ jobs:
     - name: Test with pytest
       run: |
         python CalculateSH.py
+        2
+        Seton
+        XH_xr
+        April
+        100
+        20
+        40
