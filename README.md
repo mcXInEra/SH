@@ -1,5 +1,5 @@
-# 心纪元股份计算系统
-## XinEra Shareholding Compute System
+# 心纪元股份计算系统 SC
+## XinEra Shareholding Calculate System
 GPLv3
 
 仍在开发中。  
