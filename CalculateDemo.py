@@ -41,13 +41,13 @@ print(Inputting.uidName)
 
 print("##", Inputting.name, timeUID + 1, end=' ')
 strName = 'Seton'
-    UID.extend([strName])
+UID.extend([strName])
 print("##", Inputting.name, timeUID + 2, end=' ')
 strName = 'XH_xr'
-    UID.extend([strName])
+UID.extend([strName])
 print("##", Inputting.name, timeUID + 3, end=' ')
 strName = 'April'
-    UID.extend([strName])
+UID.extend([strName])
 #while timeUID < numUID:
 #    print("##", Inputting.name, timeUID + 1, end=' ')
 #    strName = input()
