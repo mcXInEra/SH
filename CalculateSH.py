@@ -1,4 +1,4 @@
-# import os
+import os
 import time
 
 # Initialize parameter
@@ -60,3 +60,6 @@ while times < numUID:
     times += 1
 
 print("So that's the reason why there's no more result. Goodbye!")
+
+# Exit
+os.system('pause')
